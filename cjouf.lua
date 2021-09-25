@@ -1271,7 +1271,7 @@ return false
 end
 send(msg.chat_id_, msg.id_,'✯︙جارٍ الان تحديث السورس الى اخر اصدار')
 os.execute('rm -rf WaTaN.lua')
-os.execute('wget https://raw.githubusercontent.com/WaTaNtEaM/WaTaN/main/WaTaN.lua')
+os.execute('wget https://raw.githubusercontent.com/amjad00117/joufy/main/cjouf.lua')
 send(msg.chat_id_, msg.id_,'✯︙تم تحديث السورس \n✯︙لديك اخر اصدار لسورس وطن\n✯︙الاصدار » { v 2.8 }')
 dofile('WaTaN.lua')  
 end
@@ -2912,7 +2912,7 @@ return false
 end
 send(msg.chat_id_, msg.id_,'✯︙جارٍ الان تحديث السورس الى اخر اصدار')
 os.execute('rm -rf WaTaN.lua')
-os.execute('wget https://raw.githubusercontent.com/WaTaNtEaM/WaTaN/main/WaTaN.lua')
+os.execute('wget https://raw.githubusercontent.com/amjad00117/joufy/main/cjouf.lua')
 send(msg.chat_id_, msg.id_,'✯︙تم تحديث السورس \n✯︙لديك اخر اصدار لسورس وطن\n✯︙الاصدار » { v 2.8 }')
 dofile('WaTaN.lua')  
 end
